@@ -28,4 +28,10 @@ During my internship, I was actively involved in the development of the Perlis e
 - **Award**: Gold Medal, Top 5 Award and Diamond Award
 
 ## Certificates
+### Gold Medal
+![Gold Medal](eCERT_Gold.jpg)  
+### Top 5 Award
+![Top 5 Award](eCERT_Top_5.jpg)  
+### Diamond Award
+![Diamond Award](eCERT_Diamond.jpg)  
   
