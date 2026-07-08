@@ -5,7 +5,7 @@
 >- **Google Looker Studio**: For visualizing the analysis results through a dynamic and user-friendly dashboard, enhancing clarity and supporting informed decision-making.
 >  
 ## Presentation Video
-You can watch the video presentation [here](https://www.youtube.com/watch?app=desktop&v=ATx0IS33_es).
+You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&v=ATx0IS33_es).
 
 ## Key Contribution
 - **Digitalizing a traditional cemetery records** using an interactive **dashboard**, ensuring the insights were accessible for decision-makers at JAIPs.
