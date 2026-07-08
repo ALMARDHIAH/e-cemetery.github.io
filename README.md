@@ -1,6 +1,4 @@
 # Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State
-
-## YouTube
 >Watch video presentation [here](https://www.youtube.com/watch?app=desktop&v=ATx0IS33_es)
 
 ## About e-Cemetery Project
