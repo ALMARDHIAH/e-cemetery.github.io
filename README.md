@@ -15,15 +15,15 @@ During my internship, I was actively involved in the development of the Perlis e
 
 ## Report/Dashboard Overview
 ### Page 1
-![Introduction](Dashboard Introduction.PNG)
+![Introduction](Dashboard_Introduction.PNG)
 ### Page 2
-![Population](Dashboard Population.PNG)
+![Population](Dashboard_Population.PNG)
 ### Page 3
-![Live Births](Dashboard Live Births.PNG)
+![Live Births](Dashboard_Live_Births.PNG)
 ### Page 4
-![Deaths](Dashboard Deaths.PNG)
+![Deaths](Dashboard_Deaths.PNG)
 ### Page 5
-![Projection](Dashboard Projection.PNG)
+![Projection](Dashboard_Projection.PNG)
 ## Publication
 - **Title**: [Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://persama.org.my/images/Menemui_Matematik/2025/MMv473_8_20.pdf)
 - **Publisher**: Menemui Matematik (Discovering Mathematics)
