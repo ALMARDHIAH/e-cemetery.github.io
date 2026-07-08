@@ -16,16 +16,16 @@ During my internship, I was actively involved in the development of the Perlis e
 ## Dashboard Overview
 
 ## Publication
-- Title: [Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://persama.org.my/images/Menemui_Matematik/2025/MMv473_8_20.pdf)
-- Publisher: Menemui Matematik (Discovering Mathematics)
-- Date: 12 December 2025
-- [Place of publication](https://persama.org.my/dismath/home)
+- **Title**: [Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://persama.org.my/images/Menemui_Matematik/2025/MMv473_8_20.pdf)
+- **Publisher**: Menemui Matematik (Discovering Mathematics)
+- **Date**: 12 December 2025
+- **Place of publication**: [Malaysian Mathematical Sciences Society](https://persama.org.my/dismath/home)
 
 ## Achievement
-- Competition: International Invention, Innovation and Design Competition (i3dc) 2025
-- Organizer: Tanah Merah Vocational College
-- Category: Professional Online
-- Award: Gold Medal, Top 5 Award and Diamond Award
+- **Competition**: International Invention, Innovation and Design Competition (i3dc) 2025
+- **Organizer**: Tanah Merah Vocational College
+- **Category**: Professional Online
+- **Award**: Gold Medal, Top 5 Award and Diamond Award
 
 ## Certificates
   
