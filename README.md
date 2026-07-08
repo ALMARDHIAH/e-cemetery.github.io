@@ -1,8 +1,5 @@
-# Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State
+# Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State  2025
 >Watch video presentation [here](https://www.youtube.com/watch?app=desktop&v=ATx0IS33_es)
-
-## About e-Cemetery Project
-During my internship, I was actively involved in the development of the Perlis e-cemetery project under JAIPs (Perlis State Islamic Religious Affairs Department). My main contribution focused on analyzing historical and demographic data and digitalizing the traditional cemetery management using an interactive dashboard to assist JAIPs in making informed decisions regarding future cemetery land planning.
 
 ## Key Contribution
 - **Digitalizing a traditional cemetery records** using an interactive **dashboard**, ensuring the insights were accessible for decision-makers at JAIPs.
