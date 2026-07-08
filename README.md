@@ -1,14 +1,13 @@
 # Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State  (2025)
+>**Tools**
+>- **Python**: For data cleaning & processing.
+>- **Microsoft Excel**: Forecasting long-term cemetery land requirements.
+>- **Google Looker Studio**: For visualizing the analysis results through a dynamic and user-friendly dashboard, enhancing clarity and supporting informed decision-making.
 >Watch the video presentation [here](https://www.youtube.com/watch?app=desktop&v=ATx0IS33_es)
 
 ## Key Contribution
 - **Digitalizing a traditional cemetery records** using an interactive **dashboard**, ensuring the insights were accessible for decision-makers at JAIPs.
 - Conducted data analysis using historical demographic data to **forecast the annual demand for cemetery land**.
-
-## Tools
-- **Python**: For data cleaning & processing.
-- **Microsoft Excel**: Forecasting long-term cemetery land requirements.
-- **Google Looker Studio**: For visualizing the analysis results through a dynamic and user-friendly dashboard, enhancing clarity and supporting informed decision-making.
 
 ## Report/Dashboard Overview
 ### Page 1
