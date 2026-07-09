@@ -16,6 +16,12 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 - **Publisher**: [Malaysian Mathematical Sciences Society](https://persama.org.my/dismath/home)
 - **Date**: 12 December 2025
 - **Place of publication**: Menemui Matematik (Discovering Mathematics)
+---
+- **Title**:Cemetery Land: Sustainable Dashboard Development for Perlis E-Cemetery
+- **Publisher**: Academica Press
+- **Date**: 28 August 2025
+- **Place of publication**: [Innovation Series Quarterly (ISQ)](https://journal.academicapress.org/aps/index.php/isq/article/view/255)
+
 
 ## Achievement
 - **Competition**: International Invention, Innovation and Design Competition (i3dc) 2025
