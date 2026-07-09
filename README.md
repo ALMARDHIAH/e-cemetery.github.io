@@ -13,9 +13,9 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 
 ## Publication
 - **Title**: [Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://persama.org.my/images/Menemui_Matematik/2025/MMv473_8_20.pdf)
-- **Publisher**: Menemui Matematik (Discovering Mathematics)
+- **Publisher**: [Malaysian Mathematical Sciences Society](https://persama.org.my/dismath/home)
 - **Date**: 12 December 2025
-- **Place of publication**: [Malaysian Mathematical Sciences Society](https://persama.org.my/dismath/home)
+- **Place of publication**: Menemui Matematik (Discovering Mathematics)
 
 ## Achievement
 - **Competition**: International Invention, Innovation and Design Competition (i3dc) 2025
