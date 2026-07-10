@@ -11,7 +11,7 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 - **Digitalizing a traditional cemetery records** using an interactive **dashboard**, ensuring the insights were accessible for decision-makers at JAIPs.
 - Conducted data analysis using historical demographic data to **forecast the annual demand for cemetery land**.
 
-## Publication
+## Publications
 - **Title**: [Analyzing Projections of Cemetery Land Utilization: A Case Study of Perlis State](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://persama.org.my/images/Menemui_Matematik/2025/MMv473_8_20.pdf)
 - **Publisher**: [Malaysian Mathematical Sciences Society](https://persama.org.my/dismath/home)
 - **Date**: 12 December 2025
