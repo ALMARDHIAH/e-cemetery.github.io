@@ -36,13 +36,10 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 
 
 ## Report/Dashboard Overview
-### Page 1
-![Introduction](Dashboard_Introduction.PNG)
-### Page 2
-![Population](Dashboard_Population.PNG)
-### Page 3
-![Live Births](Dashboard_Live_Births.PNG)
-### Page 4
-![Deaths](Dashboard_Deaths.PNG)
-### Page 5
-![Projection](Dashboard_Projection.PNG)
+| **Page** | **Dashboard** |
+|---|---|
+|**Page 1**|![Introduction](Dashboard_Introduction.PNG)|
+|**Page 2**|![Population](Dashboard_Population.PNG)|
+|**Page 3**|![Live Births](Dashboard_Live_Births.PNG)|
+|**Page 4**|![Deaths](Dashboard_Deaths.PNG)|
+|**Page 5**|![Projection](Dashboard_Projection.PNG)|
