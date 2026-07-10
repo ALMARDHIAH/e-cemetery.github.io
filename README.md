@@ -28,10 +28,13 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 - **Organizer**: Tanah Merah Vocational College
 - **Category**: Professional Online
 - **Award**: Gold Medal, Top 5 Award and Diamond Award
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+
+
+| Header 1 | Header 2 | Header 3 |
+| :---     | :---:    | ---:     |
+| Left     | Center   | Right    |
+| Text     | Text     | Text     |
+
 
 ## Certificates
 ### Gold Medal
