@@ -38,7 +38,7 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 ## Report/Dashboard Overview
 | **Number of Page** | **Dashboard** |
 |---|---|
-|**1**|![Introduction](Dashboard_Introduction.PNG)|
+|**1 (Introduction)**|![Introduction](Dashboard_Introduction.PNG)|
 |**2**|![Population](Dashboard_Population.PNG)|
 |**3**|![Live Births](Dashboard_Live_Births.PNG)|
 |**4**|![Deaths](Dashboard_Deaths.PNG)|
