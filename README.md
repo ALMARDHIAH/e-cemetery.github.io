@@ -29,23 +29,11 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 - **Category**: Professional Online
 - **Award**: Gold Medal, Top 5 Award and Diamond Award
 
-### Project Overview
-
-| Header 1 | Header 2 |
-|---|---|
-| Cell 1 | Cell 2 |
-
-
 ## Certificates
-### Gold Medal
-![Gold Medal](eCERT_Gold.jpg)  
-### Top 5 Award
-![Top 5 Award](eCERT_Top_5.jpg)  
-### Diamond Award
-![Diamond Award](eCERT_Diamond.jpg)  
+| **Gold Medal** | **Top 5 Award** | **Diamond Award** |
+|---|---|---|
+| ![Gold Medal](eCERT_Gold.jpg)![Gold Medal](eCERT_Gold.jpg) | ![Top 5 Award](eCERT_Top_5.jpg) | ![Diamond Award](eCERT_Diamond.jpg) 
 
-**Gold Medal**|**Top 5 Award**|**Diamond Award**
-![Gold Medal](eCERT_Gold.jpg)|![Top 5 Award](eCERT_Top_5.jpg)|![Diamond Award](eCERT_Diamond.jpg) 
 
 ## Report/Dashboard Overview
 ### Page 1
