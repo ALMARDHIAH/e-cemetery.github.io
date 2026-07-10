@@ -39,7 +39,7 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 | **Number of Page** | **Dashboard** |
 |---|---|
 |<div align="center">**1**|![Introduction](Dashboard_Introduction.PNG)|
-|**2**|![Population](Dashboard_Population.PNG)|
-|**3**|![Live Births](Dashboard_Live_Births.PNG)|
-|**4**|![Deaths](Dashboard_Deaths.PNG)|
-|**5**|![Projection](Dashboard_Projection.PNG)|
+|<div align="center">**2**|![Population](Dashboard_Population.PNG)|
+|<div align="center">**3**|![Live Births](Dashboard_Live_Births.PNG)|
+|<div align="center">**4**|![Deaths](Dashboard_Deaths.PNG)|
+|<div align="center">**5**|![Projection](Dashboard_Projection.PNG)|
