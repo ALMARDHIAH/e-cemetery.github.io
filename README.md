@@ -37,7 +37,7 @@ You can watch the presentation [here](https://www.youtube.com/watch?app=desktop&
 ### Diamond Award
 ![Diamond Award](eCERT_Diamond.jpg)  
 
-### Gold Medal | ### Top 5 Award | ### Diamond Award
+**Gold Medal** | **Top 5 Award** | **Diamond Award**
 ![Gold Medal](eCERT_Gold.jpg) | ![Top 5 Award](eCERT_Top_5.jpg) | ![Diamond Award](eCERT_Diamond.jpg) 
 
 ## Report/Dashboard Overview
